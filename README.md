@@ -1,5 +1,5 @@
 
-  <img src="Screenshot_2.png" width="450" />
+  <img src="profile.png" width="800" />
 
  
 
